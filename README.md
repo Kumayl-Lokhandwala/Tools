@@ -15,7 +15,7 @@ I'm building **one tool a day**, keeping each project simple, useful, and easy f
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Tools.git
+git clone https://github.com/Kumayl-Lokandwala/Tools.git
 cd Tools
 ```
 
