@@ -14,3 +14,6 @@ env/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Ignore tests for rename-kit
+rename-kit/tests/
