@@ -9,7 +9,7 @@ I'm building **one tool a day**, keeping each project simple, useful, and easy f
 | #   | Tool                              | Description                                                                                                 | Language |
 | --- | --------------------------------- | ----------------------------------------------------------------------------------------------------------- | -------- |
 | 01  | [Audio Remover](./audio-remover/) | Remove audio from a video and save a muted copy.                                                            | Python   |
-| 02  | [RenameKit](./rename-kit/)        | Batch rename files with prefixes, suffixes, find-and-replace, and numbering, with preview and undo support. | Python   |
+| 02  | [Rename Kit](./rename-kit/)       | Batch rename files with prefixes, suffixes, find-and-replace, and numbering, with preview and undo support. | Python   |
 
 ## Getting Started
 
